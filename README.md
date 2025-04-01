@@ -1,3 +1,3 @@
-# Zbiór algorytmów i notatek na ich temat
+# Zbiór algorytmów, źródeł i notatek na temat informatyki, algorytmiki i programowania
 
 [Topological sort](https://en.wikipedia.org/wiki/Topological_sorting)
